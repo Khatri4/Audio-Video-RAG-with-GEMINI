@@ -1,0 +1,7 @@
+python-dotenv
+assemblyai
+langchain
+faiss-cpu
+langchain_google_genai
+langchain_community
+streamlit
